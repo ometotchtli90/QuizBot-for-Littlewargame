@@ -2,7 +2,7 @@ question,answer,method
 How much HP does a Worker have?,120,exactly
 How much HP does an Airship have?,220,exactly
 How much HP does an Archer have?,160,exactly
-How much HP does a Balista have?,250,exactly
+How much HP does a Ballista have?,250,exactly
 How much HP does a Bird have?,75,exactly
 How much HP does a Caultrop have?,12,exactly
 How much HP does a Catapult have?,220,exactly
@@ -38,7 +38,7 @@ How much MMR do you need to get promoted to Div4?,870,exactly
 Who is considered GOAT of LWG for most of the community?,haffey daz dragonarcherz rynus sqrt sqrtofneg1,includes
 Who is the biggest content creator of the community (by subscribercount)?,neagat,exactly
 Who is the currently highest ranked player?,haffey,exactly
-Whats the AttackCooldown of Raider?,2.79 2,79,includes
+Whats the AttackCooldown of Raider?,2.79,exactly
 Name the content creator who does videos like "Guess the guest" ...,sqrt sqrtofneg1,includes
 Name the content creator who created the "Tierlist talks with X" videos ...,CE consciouslyeating,includes
 Name any of the original creators of "AncientWorld" ...,peka invictus,includes
@@ -71,15 +71,15 @@ What is the mechanic called when workers are send mining?,mineralwalking,include
 How many Wolf do you need to kill a Raider (microed)?,3 three,includes
 Name one of the guys who came up with the last balance patch changes and went into a 2 week balance/boot camp together to grind?,WR weirdrat haffey,includes
 Name one of the creators of "Light Shades" ...,Haffey CE consciouslyeating,includes
-How many shots does a Balista need to kill a Gyrocraft?,4 four,includes
+How many shots does a Ballista need to kill a Gyrocraft?,4 four,includes
 Who invented the opening buildorder where you followup your House with 1 Wolvesden and add another House before you put down your Castle?,DC destroycall,includes
 Which russian legend of the game is famous for his very dominant mech heavy play?,Rynus,exactly
-Who is invented the Raider opening hard counter cheese with a proxy Workshop in combination with a Wolvesden at home and pressuring with Wolf and Gatlinggun?,Glaba,exactly
+Who invented the Raider opening hard counter cheese with a proxy Workshop in combination with a Wolvesden at home and pressuring with Wolf and Gatlinggun?,Glaba,exactly
 How much gold does "Invisibility" cost?,200,exactly
 How much gold does "Wolf Sprint" cost?,150,exactly
 How much gold does "Fireball" cost?,100,exactly
 How much gold does "Airship Telescope Extension" cost?,100,exactly
-Whats the name of the upgrade for Balista?,blackpowder,startswith
+Whats the name of the upgrade for Ballista?,blackpowder,startswith
 When the Gatlinggun has the "Spoked wheel" upgrade researched, is it faster than a Bird?,yes,startswith
 Whats the AttackCooldown of a Snake?,0.67,exactly
 What unit attacks the fastest?,Snake,exactly
