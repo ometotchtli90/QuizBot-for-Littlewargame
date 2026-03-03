@@ -17,17 +17,17 @@ How much HP does a Snake have?,90,exactly
 How much HP does a Soldier have?,220,exactly
 How much HP does a Werewolf have?,440,exactly
 How much HP does a Wolf have?,160,exactly
-Name one of the owners of littlewargame...,Aicy Glaba,includes
-What is the recommended browser to use to access and play Littlewargame?,Google Chrome,includes
-How many hits does a Raider need to kill a Worker?,3three,includes
+Name one of the owners of littlewargame...,Aicy Glaba,includes2
+What is the recommended browser to use to access and play Littlewargame?,Google Chrome,includes2
+How many hits does a Raider need to kill a Worker?,3 three,includes1
 Are Dragons faster than Gyrocraft?,n,startswith
 Are Airships faster than Dragons?,n,startswith
-Whats the name of the building you use to build Archer, Raider and Soldier?,RaxBarracks,includes
-Whats the name of the building you use to build Wolf, Snake and Werewolf?,den,includes
-Whats the name of the building you use to build Catapult and Gatlinggun?,WS Workshop,includes
-What is the highest division in the LWG ranked ladder?,Alpha,includes
-What is the secondhighest division in the LWG ranked ladder?,Beta,includes
-What is the thirdhighest division in the LWG ranked ladder?,Gamma,includes
+Whats the name of the building you use to build Archer Raider and Soldier?,Rax Barracks,includes2
+Whats the name of the building you use to build Wolf Snake and Werewolf?,den,includes2
+Whats the name of the building you use to build Catapult and Gatlinggun?,WS Workshop,includes2
+What is the highest division in the LWG ranked ladder?,Alpha,exactly
+What is the secondhighest division in the LWG ranked ladder?,Beta,exactly
+What is the thirdhighest division in the LWG ranked ladder?,Gamma,exactly
 How much MMR do you need to get promoted to DivAlpha?,2470,exactly
 How much MMR do you need to get promoted to DivBeta?,2120,exactly
 How much MMR do you need to get promoted to DivGamma?,1920,exactly
@@ -35,44 +35,44 @@ How much MMR do you need to get promoted to Div1?,1720,exactly
 How much MMR do you need to get promoted to Div2?,1320,exactly
 How much MMR do you need to get promoted to Div3?,1120,exactly
 How much MMR do you need to get promoted to Div4?,870,exactly
-Who is considered GOAT of LWG for most of the community?,haffey daz dragonarcherz rynus sqrt sqrtofneg1,includes
+Who is considered GOAT of LWG?,haffey daz dragonarcherz rynus sqrt sqrtofneg1,includes2
 Who is the biggest content creator of the community (by subscribercount)?,neagat,exactly
 Who is the currently highest ranked player?,haffey,exactly
 Whats the AttackCooldown of Raider?,2.79,exactly
-Name the content creator who does videos like "Guess the guest" ...,sqrt sqrtofneg1,includes
-Name the content creator who created the "Tierlist talks with X" videos ...,CE consciouslyeating,includes
-Name any of the original creators of "AncientWorld" ...,peka invictus,includes
+Name the content creator who does videos like "Guess the guest" ...,sqrt sqrtofneg1,includes2
+Name the content creator who created the "Tierlist talks with X" videos ...,CE consciouslyeating,includes2
+Name any of the original creators of "AncientWorld" ...,peka invictus,includes2
 Who is the original creator of "DungeonDuels"?,ninja,startswith
 Who is the original creator of "Ravaged"?,owen,exactly
-Who is the original creator of "Raidwars"?,abathur,exactly
+Who is the original creator of "Raid Wars Classic"?,abathur,exactly
 What building can you upgrade to a Fortress?,castle,exactly
-Which buildings can you build without having a house?,AW advanced workshop castle animal testing lab testlab church house tower forge,includes
+Which buildings can you build without having a house?,AW advanced workshop castle animal testing lab testlab church house tower forge,includes2
 Name the default ability of the Raider ...,Flash,exactly
-Whats the fastest unit in LWG?,Gyro Gyrocraft Gyrocopter,includes
-What units can you produce in the Mill?,Gyro Gyrocraft Gyrocopter,includes
+Whats the fastest unit in LWG?,Gyro Gyrocraft Gyrocopter,includes2
+What units can you produce in the Mill?,Gyro Gyrocraft Gyrocopter,includes2
 Whats faster a Catapult or an Airship?,Airship,startswith
 Whats slower a Snake or a Soldier?,Soldier,startswith
 What building do you need to produce Wolf?,den,exactly
 What building do you need to build a Priest?,church,exactly
-Where do you research "Wolf Sprint"?,snake charmer,includes
+Where do you research "Wolf Sprint"?,snake charmer,includes2
 Where do you research "Archer Range"?,Armory,exactly
 Where do you research "Shroud"?,Armory,exactly
-Where do you research "Spoked Wheel"?,Workshop WS,includes
+Where do you research "Spoked Wheel"?,Workshop WS,includes2
 What is the most played vanilla map?,Ravaged,exactly
-What is the most played mod?,Raidwars,exactly
+What is the most played mod?,Raid wars,includes2
 What are guests?,pests,exactly
-Who is the creator of "Silent Fjord", "City of Perils" and countless other great maps?,daz dragonarcherz,includes
-Who is the creator of "Icecold", "Little Ohana" and "Springtime" amongst others?,CE consciouslyeating,includes
-Who has the most ranked games played to date?,Slammer SlammerIV,includes
+Who is the creator of "Silent Fjord" "City of Perils" and countless other great maps?,daz dragonarcherz,includes2
+Who is the creator of "Icecold" "Little Ohana" and "Springtime" amongst others?,CE consciouslyeating,includes2
+Who has the most ranked games played to date?,Slammer SlammerIV,includes2
 Who is the creator of the HurricanAI?,mr meow meow,exactly
 Who initially created a massive hype around littlewargame back in 2024?,harstem,exactly
-How many workers can repair a building?,1 one,includes
-What is the mechanic called when workers are send mining?,mineralwalking,includes
-How many Wolf do you need to kill a Raider (microed)?,3 three,includes
-Name one of the guys who came up with the last balance patch changes and went into a 2 week balance/boot camp together to grind?,WR weirdrat haffey,includes
-Name one of the creators of "Light Shades" ...,Haffey CE consciouslyeating,includes
-How many shots does a Ballista need to kill a Gyrocraft?,4 four,includes
-Who invented the opening buildorder where you followup your House with 1 Wolvesden and add another House before you put down your Castle?,DC destroycall,includes
+How many workers can repair a building?,1 one,includes1
+What is the mechanic called when workers are send mining?,mineralwalking,includes2
+How many Wolf do you need to kill a Raider (microed)?,3 three,includes1
+Name one of the guys who came up with the last balance patch changes and went into a 2 week balance/boot camp together to grind?,WR weirdrat haffey,includes2
+Name one of the creators of "Light Shades" ...,Haffey CE consciouslyeating,includes2
+How many shots does a Ballista need to kill a Gyrocraft?,4 four,includes1
+Who invented the opening buildorder where you followup your House with 1 Wolvesden and add another House before you put down your Castle?,DC destroycall,includes2
 Which russian legend of the game is famous for his very dominant mech heavy play?,Rynus,exactly
 Who invented the Raider opening hard counter cheese with a proxy Workshop in combination with a Wolvesden at home and pressuring with Wolf and Gatlinggun?,Glaba,exactly
 How much gold does "Invisibility" cost?,200,exactly
@@ -88,14 +88,19 @@ How many seconds does it take to upgrade "Detection" with a Tower?,30,exactly
 How many seconds does a Worker take to pop out of the castle?,27,exactly
 Whats the optimal amount of workers per mine?,11,exactly
 What unit is faster a Worker or a Soldier?,Worker,exactly
-Whats the minimum amount of Wolf you need to destroy a Tower (with no repair)?,4 four,includes
-Whats the minimum amount of Archer you need to destroy a Tower (with no repair)?,4 four,includes
-Whats the minimum amount of Raider you need to destroy a Tower (with no repair)?,3 three,includes
-Whats the minimum amount of Soldier you need to destroy a Tower (with no repair)?,2 two,includes
-How much armor does a Werewolf have (without upgrades)?,4 four,includes
-How much armor penetration does a Gatlinggun have?,5 five,includes
+Whats the minimum amount of Wolf you need to destroy a Tower (with no repair)?,4 four,includes1
+Whats the minimum amount of Archer you need to destroy a Tower (with no repair)?,4 four,includes1
+Whats the minimum amount of Raider you need to destroy a Tower (with no repair)?,3 three,includes1
+Whats the minimum amount of Soldier you need to destroy a Tower (with no repair)?,2 two,includes1
+How much armor does a Werewolf have (without upgrades)?,4 four,includes1
+How much armor penetration does a Gatlinggun have?,5 five,includes1
 Which is the slowest moving unit in the game?,Dragons,startswith
 How much HP does a House have?,900,exactly
 How much HP does a Wolvesden have?,950,exactly
 How much HP does a Tower have?,500,exactly
-Whats unit hard counters Archer?,wolf cata catapult,includes
+What units hard counters Archer?,wolf wolves cata catapult,includes2
+Whos faster Raider or Wolf?,wolf wolves,includes2
+Whos slower Airship or Dragon?,Dragons,includes2
+How many Raider need to flash on a Gatlinggun to oneshot it?,4 four,includes1
+Does Aicys girlfriend also play LWG?,y,startswith
+Whats the name of the winning team of ProLeague Season1?,
