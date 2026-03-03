@@ -80,7 +80,7 @@ bot.endGame = function() {
 // =====================
 // RANDOM QUESTION (NO REPEATS)
 // =====================
-//bot.askRandomQuestion = function() {
+bot.askRandomQuestion = function() {
     if (!bot.running) return;
  
     const unused = bot.getUnusedQuestions();
