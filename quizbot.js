@@ -80,7 +80,7 @@ bot.endGame = function() {
 // =====================
 // RANDOM QUESTION (NO REPEATS)
 // =====================
-bot.askRandomQuestion = function() {
+//bot.askRandomQuestion = function() {
     if (!bot.running) return;
  
     const unused = bot.getUnusedQuestions();
@@ -103,7 +103,7 @@ bot.askRandomQuestion = function() {
     bot.answered = false;
     bot.questionStartTime = Date.now();
  
-    sendChatMessage(`🧠 QUIZ (${unused.length} left): ${bot.currentQuestion}`);
+    sendChatMessage(`🧠 QUESTION: ${bot.currentQuestion}`);
 };
  
 // =====================
@@ -120,7 +120,8 @@ bot.checkAnswer = function(username, message) {
  
     const isCorrect =
         method === "exactly"    ? msg === ans :
-        method === "includes"   ? ans.includes(msg) && msg.length >= 2 :
+        method === "includes2"  ? ans.includes(msg) && msg.length >= 2 :
+        method === "includes1"  ? ans.includes(msg) :
         method === "startswith" ? msg.startsWith(ans) :
         method === "endswith"   ? msg.endsWith(ans) :
         false;
