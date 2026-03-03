@@ -90,7 +90,7 @@ bot.checkAnswer = function(username, message) {
 
     const isCorrect =
         method === "exactly"    ? msg === ans :
-        method === "includes"   ? msg.includes(ans)&& ans.length > 1  :
+        method === "includes"   ? ans.includes(msg)&& ans.length >= 2 :
         method === "startswith" ? msg.startsWith(ans) :
         method === "endswith"   ? msg.endsWith(ans) :
         false;
