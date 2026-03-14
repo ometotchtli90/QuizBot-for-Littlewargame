@@ -19,7 +19,7 @@ How much HP does a Werewolf have?,440,exactly,60,100
 How much HP does a Wolf have?,160,exactly,60,100
 Name one of the owners of littlewargame...,Aicy Glaba,includes2,60,100
 What is the recommended browser to use to access and play Littlewargame?,Google Chrome,includes2,90,150
-How many hits does a Raider need to kill a Worker?,3 three,includes1,90,150
+How many hits does a Raider need to kill a Worker?,3,exactly,90,150
 Are Dragons faster than Gyrocraft?,n,startswith,90,150
 Are Airships faster than Dragons?,n,startswith,90,150
 Whats the name of the building you use to build Archer Raider and Soldier?,Rax Barracks,includes2,60,100
@@ -44,7 +44,7 @@ Name the content creator who created the "Tierlist talks with X" videos ...,CE c
 Name any of the original creators of "AncientWorld" ...,peka invictus,includes2,120,200
 Who is the original creator of "DungeonDuels"?,ninja,startswith,120,200
 Who is the original creator of "Ravaged"?,owen,exactly,120,200
-Who is the original creator of "Raid Wars Classic"?,abathur,exactly,120,200
+Who is the original creator of "Raid Wars Classic"?,humon,exactly,120,200
 What building can you upgrade to a Fortress?,castle,exactly,60,100
 Which buildings can you build without having a house?,AW advanced workshop castle animal testing lab testlab church house tower forge,includes2,60,100
 Name the default ability of the Raider ...,Flash,exactly,60,100
@@ -66,12 +66,12 @@ Who is the creator of "Icecold" "Little Ohana" and "Springtime" amongst others?,
 Who has the most ranked games played to date?,Slammer SlammerIV,includes2,120,200
 Who is the creator of the HurricanAI?,mr meow meow,exactly,120,200
 Who initially created a massive hype around littlewargame back in 2024?,harstem,exactly,90,150
-How many workers can repair a building?,1 one,includes1,60,100
+How many workers can repair a building?,1,exactly,60,100
 What is the mechanic called when workers are send mining?,mineralwalking,includes2,90,150
-How many Wolf do you need to kill a Raider (microed)?,3 three,includes1,120,200
+How many Wolf do you need to kill a Raider (microed)?,3,exactly,120,200
 Name one of the guys who came up with the last balance patch changes and went into a 2 week balance/boot camp together to grind?,WR weirdrat haffey,includes2,90,150
 Name one of the creators of "Light Shades" ...,Haffey CE consciouslyeating,includes2,90,150
-How many shots does a Ballista need to kill a Gyrocraft?,4 four,includes1,120,200
+How many shots does a Ballista need to kill a Gyrocraft?,4,exactly,120,200
 Who invented the opening buildorder where you followup your House with 1 Wolvesden and add another House before you put down your Castle?,DC destroycall,includes2,90,150
 Which russian legend of the game is famous for his very dominant mech heavy play?,Rynus,exactly,120,200
 Who invented the Raider opening hard counter cheese with a proxy Workshop in combination with a Wolvesden at home and pressuring with Wolf and Gatlinggun?,Glaba,exactly,90,150
@@ -88,12 +88,12 @@ How many seconds does it take to upgrade "Detection" with a Tower?,30,exactly,90
 How many seconds does a Worker take to pop out of the castle?,27,exactly,90,150
 Whats the optimal amount of workers per mine?,11,exactly,90,150
 What unit is faster a Worker or a Soldier?,Worker,exactly,120,200
-Whats the minimum amount of Wolf you need to destroy a Tower (with no repair)?,4 four,includes1,120,200
-Whats the minimum amount of Archer you need to destroy a Tower (with no repair)?,4 four,includes1,120,200
-Whats the minimum amount of Raider you need to destroy a Tower (with no repair)?,3 three,includes1,120,200
-Whats the minimum amount of Soldier you need to destroy a Tower (with no repair)?,2 two,includes1,120,200
-How much armor does a Werewolf have (without upgrades)?,4 four,includes1,120,200
-How much armor penetration does a Gatlinggun have?,5 five,includes1,120,200
+Whats the minimum amount of Wolf you need to destroy a Tower (with no repair)?,4,exactly,120,200
+Whats the minimum amount of Archer you need to destroy a Tower (with no repair)?,4,exactly,120,200
+Whats the minimum amount of Raider you need to destroy a Tower (with no repair)?,3,exactly,120,200
+Whats the minimum amount of Soldier you need to destroy a Tower (with no repair)?,2,exactly,120,200
+How much armor does a Werewolf have (without upgrades)?,4,exactly,120,200
+How much armor penetration does a Gatlinggun have?,5,exactly,120,200
 Which is the slowest moving unit in the game?,Dragons,startswith,120,200
 How much HP does a House have?,900,exactly,90,150
 How much HP does a Wolvesden have?,950,exactly,90,150
@@ -102,17 +102,17 @@ What unit hard counters Werewolf?, gatlinggun,includes2,,90,150
 What unit hard counters Archer?,wolf woof wolves cata catapult,includes2,120,200
 Whos faster Raider or Wolf?,wolf wolves,includes2,60,100
 Whos slower Airship or Dragon?,Dragons,includes2,120,200
-How many Raider need to flash on a Gatlinggun to oneshot it?,4 four,includes1,120,200
-Does Aicys girlfriend also play LWG?,y,startswith,60,100
+How many Raider need to flash on a Gatlinggun to oneshot it?,4,includes1,120,200
+Does Aicys girlfriend also play LWG?,yes,startswith,60,100
 Whats the name of the winning team of the very first Season of ProLeague?,Team DC Destroycall,includes2,120,200
 Whats the name of the winning team of ProLeague Season 2?,LWGgatekeeping,includes2,120,200
 Whats the name of the winning team of ProLeague Season 3?,Team SlammerIV,includes2,120,200
 Whats the name of the winning team of ProLeague Season 4?,Team SlyFox7,includes2,120,200
 Whats the name of the winning team of ProLeague Season 5?,Team MatthewN,includes2,120,200
 Whats the name of the winning team of ProLeague Season 6?,The Fellowship,includes2,120,200
-Whats the name of the winning team of ProLeague Season 7?,The WeirdRat,includes2,120,200
+Whats the name of the winning team of ProLeague Season 7?,team WeirdRat,includes2,120,200
 Whats the name of the winning team of ProLeague Season 8?,Team Macronomics,includes2,120,200
 Name a unit without HP regeneration ...,workers soldiers archers catapults ballistas balistas airships Gatlingguns mages priests gyrocrafts copters,includes2,60,100
 Name a unit regenerating HP ...,wolf wolves snakes werewolf werewolves birds birbs dragons raiders,includes2,60,100
-Is the Wolf with "Wolf Sprint" Upgrade faster than a Gyrocraft?,y,startswith,120,200
+Is the Wolf with "Wolf Sprint" Upgrade faster than a Gyrocraft?,yes,startswith,120,200
 Which non-beast unit regenerates HP?,raiders,includes2,,60,100

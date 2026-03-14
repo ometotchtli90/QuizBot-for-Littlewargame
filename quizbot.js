@@ -34,7 +34,7 @@
     const input = document.getElementById("lobbyChatInput");
     if (!input) return console.error("Chat input not found.");
 
-    input.value = text;
+    input.value = text.replace('55', '5 5');
     input.dispatchEvent(
       new KeyboardEvent("keydown", {
         bubbles: true,
@@ -281,12 +281,13 @@
     const ans = bot.correctAnswer;
     const method = bot.currentMethod || "exactly";
 
-    const isCorrect =
-      method === "exactly" ? msg === ans :
-      method === "includes" ? ans.includes(msg) && msg.length > 1 :
-      method === "startswith" ? msg.startsWith(ans) :
-      method === "endswith" ? msg.endsWith(ans) :
-      false;
+const isCorrect =
+  method === "exactly"    ? msg === ans :
+  method === "includes"   ? msg.includes(ans) :
+  method === "includes2"  ? ans.includes(msg) && msg.length > 1 :
+  method === "startswith" ? ans.startsWith(msg) :
+  method === "endswith"   ? ans.endsWith(msg) :
+  false;
 
     if (!isCorrect) return;
 
